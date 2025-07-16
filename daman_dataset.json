@@ -1,0 +1,10 @@
+{
+  "name": "Daman Games Dataset",
+  "description": "This dataset contains referral code usage, bonus rewards data, and player behavior analytics collected from the Daman Games platform. It is useful for tasks related to referral system optimization, reward modeling, and game engagement analysis.",
+  "url": "https://example.com/daman-games-dataset", 
+  "papers": [],
+  "tasks": ["Referral Code Analysis", "Reward Prediction", "User Behavior Modeling"],
+  "languages": ["English"],
+  "license": "CC-BY-4.0",
+  "added": "2025-07-16"
+}
